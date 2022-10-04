@@ -4,7 +4,7 @@ Name-<b>Jaiwin Chaudhari</b><br>
 Roll no-<b>45</b><br>
 Section -<b> A(CSE-I)</b><br>
 <hr>
-<b>Problem statement<b>- Calculate Minimun distance and time of the salesman from one location to another location.
+<b>Problem statement<b>- Calculate Minimum distance and time of the salesman from one location to another location.
 <hr>
 <b>Theory</b>- The traveling salesman problems abide by a salesman and a set of cities. The salesman has to visit every one of the cities starting from a certain one (e.g., the hometown) and to return to the same city. The challenge of the problem is that the traveling salesman needs to minimize the total length of the trip.
 <hr>
